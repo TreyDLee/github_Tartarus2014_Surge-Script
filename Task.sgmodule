@@ -21,7 +21,6 @@ cron "20 3 8 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scr
 cron "30 3 8 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js,tag=腾讯视频
 cron "40 3 8 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js,tag=喜马拉雅
 cron "0 5 8 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js,tag=中国联通
-cron "30 5 8 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.js,tag= 美团外卖
 cron "40 5 8 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js,tag=美团
 
 # Peng-YM  https://github.com/Peng-YM/QuanX/tree/master/Tasks
@@ -46,12 +45,7 @@ cron "0 9 8 * * *" script-path=https://raw.githubusercontent.com/songyangzz/Quan
 cron "10 10 8 * * *" script-path=https://raw.githubusercontent.com/barrym-chen/Script/master/jddj/jddj.js, tag=京东到家
 cron "10 10 8 * * *" script-path=https://raw.githubusercontent.com/barrym-chen/Script/master/tie/tie_sign.js, tag=京东金融提额
 
-# makexp
-cron "40 11 8 * * *" script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/xmly_wc.js,tag=微信小程序-喜马拉雅
-
-# vinewx  https://ooxx.be/js/
-cron "0 9 * * *" script-path=https://ooxx.be/js/jegotrip.js, tag=无忧行
-cron "0 9 * * *" script-path=https://ooxx.be/js/umer.js, tag=优卖医生
+# vinewx
 cron "0 18 * * *" script-path=https://ooxx.be/js/maoyan.js, tag=猫眼
 
 # id77 https://github.com/id77/QuantumultX/tree/master
@@ -62,7 +56,6 @@ cron "5 8 * * *" script-path=https://raw.githubusercontent.com/iisams/Scripts/ma
 
 # yangtingxiao
 #cron "5 9-22 * * *" script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_bigWinner.js, tag=京东大赢家
-cron "10 1 * * *" script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js, tag=天天挖矿
 #cron "20 0-20/4 * * *" script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_timeMachine.js, tag=京东时光机
 cron "5 9 * * *" script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_starStore.js, tag=京东星店长
 #cron "11 1 * * *" script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机
